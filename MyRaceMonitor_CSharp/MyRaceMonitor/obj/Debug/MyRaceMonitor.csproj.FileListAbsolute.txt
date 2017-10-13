@@ -1,0 +1,12 @@
+C:\Users\Austin\Desktop\School\ObjectOriented\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\MyRaceMonitor.exe.config
+C:\Users\Austin\Desktop\School\ObjectOriented\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\MyRaceMonitor.exe
+C:\Users\Austin\Desktop\School\ObjectOriented\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\MyRaceMonitor.pdb
+C:\Users\Austin\Desktop\School\ObjectOriented\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\AppLayer.dll
+C:\Users\Austin\Desktop\School\ObjectOriented\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\RaceData.dll
+C:\Users\Austin\Desktop\School\ObjectOriented\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\AppLayer.pdb
+C:\Users\Austin\Desktop\School\ObjectOriented\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Desktop\School\ObjectOriented\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.Properties.Resources.resources
+C:\Users\Austin\Desktop\School\ObjectOriented\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.csproj.GenerateResource.Cache
+C:\Users\Austin\Desktop\School\ObjectOriented\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\School\ObjectOriented\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.exe
+C:\Users\Austin\Desktop\School\ObjectOriented\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.pdb

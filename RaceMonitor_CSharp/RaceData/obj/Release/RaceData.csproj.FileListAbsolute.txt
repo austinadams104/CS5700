@@ -1,0 +1,5 @@
+C:\Users\Austin\Desktop\School\ObjectOriented\cs5700f17-shared\hw2\RaceMonitor_CSharp\RaceData\bin\Release\RaceData.dll
+C:\Users\Austin\Desktop\School\ObjectOriented\cs5700f17-shared\hw2\RaceMonitor_CSharp\RaceData\bin\Release\RaceData.pdb
+C:\Users\Austin\Desktop\School\ObjectOriented\cs5700f17-shared\hw2\RaceMonitor_CSharp\RaceData\obj\Release\RaceData.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\School\ObjectOriented\cs5700f17-shared\hw2\RaceMonitor_CSharp\RaceData\obj\Release\RaceData.dll
+C:\Users\Austin\Desktop\School\ObjectOriented\cs5700f17-shared\hw2\RaceMonitor_CSharp\RaceData\obj\Release\RaceData.pdb
