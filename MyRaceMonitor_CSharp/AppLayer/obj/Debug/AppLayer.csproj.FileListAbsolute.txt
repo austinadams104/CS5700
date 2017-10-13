@@ -5,3 +5,9 @@ C:\Users\Austin\Desktop\School\ObjectOriented\cs5700f17-shared\hw2\MyRaceMonitor
 C:\Users\Austin\Desktop\School\ObjectOriented\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.csproj.CoreCompileInputs.cache
 C:\Users\Austin\Desktop\School\ObjectOriented\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.dll
 C:\Users\Austin\Desktop\School\ObjectOriented\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.pdb
+C:\Users\Austin.adams\Documents\examples\CS5700\MyRaceMonitor_CSharp\AppLayer\bin\Debug\AppLayer.dll
+C:\Users\Austin.adams\Documents\examples\CS5700\MyRaceMonitor_CSharp\AppLayer\bin\Debug\AppLayer.pdb
+C:\Users\Austin.adams\Documents\examples\CS5700\MyRaceMonitor_CSharp\AppLayer\bin\Debug\RaceData.dll
+C:\Users\Austin.adams\Documents\examples\CS5700\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.csprojResolveAssemblyReference.cache
+C:\Users\Austin.adams\Documents\examples\CS5700\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.dll
+C:\Users\Austin.adams\Documents\examples\CS5700\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.pdb
