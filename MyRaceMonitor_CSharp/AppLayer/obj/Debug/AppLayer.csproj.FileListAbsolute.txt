@@ -11,3 +11,10 @@ C:\Users\Austin.adams\Documents\examples\CS5700\MyRaceMonitor_CSharp\AppLayer\bi
 C:\Users\Austin.adams\Documents\examples\CS5700\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.csprojResolveAssemblyReference.cache
 C:\Users\Austin.adams\Documents\examples\CS5700\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.dll
 C:\Users\Austin.adams\Documents\examples\CS5700\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.pdb
+C:\Users\Austin\Documents\GitHub\obj-oriented\CS5700\MyRaceMonitor_CSharp\AppLayer\bin\Debug\AppLayer.dll
+C:\Users\Austin\Documents\GitHub\obj-oriented\CS5700\MyRaceMonitor_CSharp\AppLayer\bin\Debug\AppLayer.pdb
+C:\Users\Austin\Documents\GitHub\obj-oriented\CS5700\MyRaceMonitor_CSharp\AppLayer\bin\Debug\RaceData.dll
+C:\Users\Austin\Documents\GitHub\obj-oriented\CS5700\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Documents\GitHub\obj-oriented\CS5700\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Documents\GitHub\obj-oriented\CS5700\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.dll
+C:\Users\Austin\Documents\GitHub\obj-oriented\CS5700\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.pdb

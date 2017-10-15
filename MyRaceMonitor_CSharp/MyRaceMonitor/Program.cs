@@ -15,8 +15,9 @@ namespace MyRaceMonitor
         [STAThread]
         static void Main()
         {
-            SimulatorController controller = new SimulatorController();
-            controller.Run("../../../SimulationData/Short Race Simulation-01.csv");
+            Application.Run(new MainForm());
+            //SimulatorController controller = new SimulatorController();
+            //controller.Run("../../../SimulationData/Short Race Simulation-01.csv");
         }
     }
 }

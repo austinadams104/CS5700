@@ -49,16 +49,69 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Athlete.cs" />
+    <Compile Include="AthleteObserver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AthleteObserver.Designer.cs">
+      <DependentUpon>AthleteObserver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BestTimesDisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BestTimesDisplay.Designer.cs">
+      <DependentUpon>BestTimesDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompareDisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompareDisplay.Designer.cs">
+      <DependentUpon>CompareDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmailDisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmailDisplay.Designer.cs">
+      <DependentUpon>EmailDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GraphicalDisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GraphicalDisplay.Designer.cs">
+      <DependentUpon>GraphicalDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListDisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListDisplay.Designer.cs">
+      <DependentUpon>ListDisplay.cs</DependentUpon>
+    </Compile>
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="ObserverCreatorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObserverCreatorForm.Designer.cs">
+      <DependentUpon>ObserverCreatorForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Subject.cs" />
+    <EmbeddedResource Include="GraphicalDisplay.resx">
+      <DependentUpon>GraphicalDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListDisplay.resx">
+      <DependentUpon>ListDisplay.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObserverCreatorForm.resx">
+      <DependentUpon>ObserverCreatorForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
